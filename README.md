@@ -55,7 +55,7 @@ Dilengkapi slicer interaktif untuk filter berdasarkan program dan rentang tangga
 
  Key Insights
 
-1. Program Tokutei Ginou paling diminati, mengungguli Magang dan Engineering — mengindikasikan preferensi peserta terhadap visa kerja jangka menengah dengan skill lebih spesifik.
+1. Program Tokutei Ginou paling diminati, mengungguli Magang dan Engineering, mengindikasikan preferensi peserta terhadap visa kerja jangka menengah dengan skill lebih spesifik.
 2. Skema dana talangan dipilih mayoritas peserta, menunjukkan keterbatasan modal awal menjadi hambatan utama, dan LPK menjawabnya lewat skema cicilan potong gaji.
 3. Pendaftaran meningkat signifikan pada periode Mei–Desember, kemungkinan terkait musim kelulusan sekolah/kuliah atau musim rekrutmen aktif perusahaan Jepang.
 4. Fuji Food Processing merupakan mitra penyerap tenaga kerja terbesar dibanding perusahaan mitra lain.
