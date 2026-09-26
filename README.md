@@ -27,7 +27,7 @@ Proyek ini merancang basis data untuk merepresentasikan seluruh proses tersebut,
 
 
 Tech Stack
-- PostgreSQL: (pgAdmin) — desain skema & penyimpanan data
+- PostgreSQL: (pgAdmin) desain skema & penyimpanan data
 - SQL: query analisis (JOIN, GROUP BY, HAVING, agregasi)
 - Power BI Desktop: dashboard interaktif
 
@@ -54,7 +54,7 @@ Dashboard terdiri dari 6 visual utama:
 - Tren pendaftaran per bulan
 - Distribusi pendidikan terakhir peserta
 - Jumlah peserta per perusahaan mitra
-- Funnel alur keberhasilan peserta (pendaftar → berangkat kerja)
+- Funnel alur keberhasilan peserta (pendaftar hingga berangkat kerja)
 
 Dilengkapi slicer interaktif untuk filter berdasarkan program dan rentang tanggal pendaftaran.
 
