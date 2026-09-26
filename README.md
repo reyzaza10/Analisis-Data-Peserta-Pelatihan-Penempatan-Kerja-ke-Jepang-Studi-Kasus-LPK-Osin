@@ -1,3 +1,9 @@
+Disclaimer: Seluruh data pada proyek ini (nama peserta, NIK, tanggal, dll) 
+adalah data simulasi/fiktif yang dibuat untuk keperluan latihan analisis data. 
+Proses bisnis dan nama perusahaan mitra terinspirasi dari observasi lapangan, 
+namun tidak merepresentasikan data internal LPK Osin yang sebenarnya.
+
+
 Analisis Data Peserta Pelatihan & Penempatan Kerja ke Jepang (Studi Kasus: LPK Osin)
 
 Proyek analisis data end-to-end: mulai dari merancang skema basis data relasional, mengisi data simulasi, menulis query SQL untuk analisis, hingga membangun dashboard interaktif di Power BI.
