@@ -8,7 +8,7 @@ Analisis Data Peserta Pelatihan & Penempatan Kerja ke Jepang (Studi Kasus: LPK O
 
 Proyek analisis data end-to-end: mulai dari merancang skema basis data relasional, mengisi data simulasi, menulis query SQL untuk analisis, hingga membangun dashboard interaktif di Power BI.
 
-Tema diangkat dari hasil kunjungan ke stan LPK Osin** (lembaga pelatihan kerja yang fokus menyalurkan tenaga kerja Indonesia ke Jepang) pada kegiatan Jobfair kampus.
+Tema diangkat dari hasil kunjungan ke stan LPK Osin (lembaga pelatihan kerja yang fokus menyalurkan tenaga kerja Indonesia ke Jepang) pada kegiatan Jobfair kampus.
 
 
 Latar Belakang
