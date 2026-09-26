@@ -41,7 +41,7 @@ Tech Stack
 | `perusahaan_mitra` | Perusahaan tujuan penempatan di Jepang |
 | `peserta` | Data calon pekerja |
 | `tahap_pelatihan` | Riwayat tahapan pelatihan tiap peserta |
-| `matching_tables` | Proses interview/pencocokan peserta—perusahaan (junction table, many-to-many) |
+| `matching_tables` | Proses interview/pencocokan peserta, dan perusahaan (junction table, many-to-many) |
 | `dokumen_paspor` | Data paspor peserta yang lolos matching |
 | `pembayaran` | Transaksi pembayaran (skema reguler/dana talangan) |
 | `keberangkatan` | Data keberangkatan, jenis pekerjaan, dan gaji |
